@@ -1,0 +1,51 @@
+body
+{
+  background: url(fondo.jpeg);
+}
+
+.nom
+{
+	position: absolute;
+	font-style: oblique;
+	top: 2%;
+	left: 28%;
+	width: 38%;
+	height: 18%;
+	background-color: #E2A9F3;
+}
+
+.nota
+{
+	position: absolute;
+	font-style: oblique;
+	top: 80%;
+	left: 10%;
+	width: 10%;
+	height: 18%;
+	background-color: #F6CEF5;
+}
+
+.f1
+{
+	position: absolute;
+	top: 30%;
+	left: 25%;
+	width: 15%;
+	height: 40%;
+	border-radius: 10%;
+	background-color: #F2F5A9;
+}
+
+.f2
+{
+	position: absolute;
+	top: 28.5%;
+	left: 55%;
+	width: 15%;
+	height: 45%;
+	border-radius: 10%;
+	background-color: #F2F5A9;
+}
+
+
+	
